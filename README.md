@@ -1,4 +1,16 @@
-# Deep HyperNEAT: Extending HyperNEAT to Evolve the Architecture and Depth of Deep Networks
+# DeepHyperNEAT + TensorNEAT Monorepo
+[Module overview for this task]
+
+- `modules/deephyperneat_cpp/`: C++ DeepHyperNEAT codebase (ported from the original Python layout).
+- `modules/tensorneat/`: TensorNEAT codebase extracted from `tensorneat-main.zip`.
+
+Each module has:
+- `AGENTS.md` with AI contributor guidance.
+- `DIRECTORY_SYNOPSIS.md` with directory-level summaries.
+
+---
+
+# Legacy reference: Deep HyperNEAT original Python README
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
